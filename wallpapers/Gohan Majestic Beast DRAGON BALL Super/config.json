@@ -1,0 +1,13 @@
+{
+  "videorender": true,
+  "media": "video.mp4",
+  "metadata": {
+    "themeName": "Gohan Majestic Beast (DRAGON BALL Super)",
+    "author": "Dkydivyansh",
+    "authorUrl": "https://dkydivyansh.com",
+    "description": "Gohan Majestic Beast (DRAGON BALL Super)",
+    "thumbnailImage": "thumb.gif"
+  },
+  "fpsLimit": 0,
+  "muteAudio": false
+}

@@ -1,0 +1,13 @@
+{
+  "videorender": true,
+  "media": "video.mp4",
+  "metadata": {
+    "themeName": "Aesthetic Beauty of Sky",
+    "author": "Dkydivyansh",
+    "authorUrl": "https://dkydivyansh.com",
+    "description": "Aesthetic Beauty of Sky",
+    "thumbnailImage": "thumb.gif"
+  },
+  "fpsLimit": 0,
+  "muteAudio": false
+}

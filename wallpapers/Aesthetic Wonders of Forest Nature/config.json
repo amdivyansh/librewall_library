@@ -1,0 +1,13 @@
+{
+  "videorender": true,
+  "media": "video.mp4",
+  "metadata": {
+    "themeName": "Aesthetic Wonders of Forest Nature",
+    "author": "Dkydivyansh",
+    "authorUrl": "https://dkydivyansh.com",
+    "description": "Aesthetic Wonders of Forest Nature",
+    "thumbnailImage": "thumb.gif"
+  },
+  "fpsLimit": 0,
+  "muteAudio": false
+}

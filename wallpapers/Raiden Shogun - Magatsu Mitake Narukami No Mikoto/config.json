@@ -1,0 +1,13 @@
+{
+  "videorender": true,
+  "media": "video.mp4",
+  "metadata": {
+    "themeName": "Raiden Shogun - Magatsu Mitake Narukami No Mikoto",
+    "author": "Dkydivyansh",
+    "authorUrl": "https://dkydivyansh.com",
+    "description": "Raiden Shogun - Magatsu Mitake Narukami No Mikoto",
+    "thumbnailImage": "thumb.gif"
+  },
+  "fpsLimit": 0,
+  "muteAudio": false
+}

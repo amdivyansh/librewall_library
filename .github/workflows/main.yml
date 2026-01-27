@@ -1,0 +1,36 @@
+name: Automate Librewall Library
+
+on:
+  push:
+    paths:
+      - 'wallpapers/**'
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  process-wallpapers:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests cloudscraper
+
+      - name: Run Update Script
+        run: |
+          python -u .github/scripts/update_library.py 
+        env:
+          API_SECRET_TOKEN: ${{ secrets.API_SECRET_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
