@@ -1,0 +1,44 @@
+{
+
+  "modelFile": "model.glb",
+   "disableAutoCenter": true,
+  "modelScale": 1.4,
+  "modelFrontRotation": {
+    "//_x_": "Tilts the model UP (negative) or DOWN (positive) - 'Pitch'",
+    "x": 0,
+    "//_y_": "Turns the model LEFT (positive) or RIGHT (negative) - 'Yaw'",
+    "y": 0,
+    "//_z_": "Rolls the model SIDE-TO-SIDE (counter-clockwise is positive) - 'Roll'",
+    "z": 0
+  },
+  "toneMapping": "Linear",
+  "toneMappingExposure": 1,
+  "enableEnvironmentHDR": true,
+  "enableBloom": false,
+  "bloomStrength": 0,
+  "bloomRadius": 0,
+  "bloomThreshold": 0,
+  "backgroundCSS": "#000000",
+  "enableIdleRotation": false,
+  "enableMouseAttraction": true,
+  "modelPositionX": -1,
+  "modelPositionY": 0,
+  "modelPositionZ": 0,
+  "lights": [
+    {
+      "type": "AmbientLight",
+      "color": "#ffffff",
+      "intensity": 1
+    }
+  ],
+  "metadata": {
+    "themeName": "Toyota AE86",
+    "author": "Dkydivyansh",
+    "authorUrl": "https://dkydivyansh.com",
+    "description": "Toyota AE86 rasing senery",
+    "thumbnailImage": "image.png"
+  },
+  "Enable_Global_Widget": true,
+  "fpsLimit": 60,
+  "qualityPreset": "high"
+}

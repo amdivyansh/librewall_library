@@ -1,0 +1,40 @@
+{
+
+  "modelFile": "model.glb",
+  "modelScale": 0.8,
+  "modelFrontRotation": {
+    "//_x_": "Tilts the model UP (negative) or DOWN (positive) - 'Pitch'",
+    "x": 0,
+    "//_y_": "Turns the model LEFT (positive) or RIGHT (negative) - 'Yaw'",
+    "y": 0,
+    "//_z_": "Rolls the model SIDE-TO-SIDE (counter-clockwise is positive) - 'Roll'",
+    "z": 0
+  },
+  "toneMapping": "Linear",
+  "toneMappingExposure": 1,
+  "enableEnvironmentHDR": true,
+  "enableBloom": false,
+  "bloomStrength": 0,
+  "bloomRadius": 0,
+  "bloomThreshold": 0,
+  "backgroundCSS": "#000000",
+  "enableIdleRotation": true,
+  "enableMouseAttraction": true,
+  "lights": [
+    {
+      "type": "AmbientLight",
+      "color": "#ffffff",
+      "intensity": 0.4
+    }
+  ],
+  "metadata": {
+    "themeName": "Cemetery Angel Miller",
+    "author": "Dkydivyansh",
+    "authorUrl": "https://dkydivyansh.com",
+    "description": "A serene and beautiful representation of a cemetery angel Miller.",
+    "thumbnailImage": "image.png"
+  },
+  "Enable_Global_Widget": true,
+  "fpsLimit": 60,
+  "qualityPreset": "high"
+}
