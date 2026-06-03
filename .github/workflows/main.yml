@@ -18,8 +18,8 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          lfs: true # <--- This forces GitHub to download the real .mp4 files
-
+          lfs: true
+          fetch-depth: 0  # <--- THIS IS THE MAGIC FIX
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
