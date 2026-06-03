@@ -130,12 +130,20 @@ def main():
             }
             payload_list.append(wallpaper_obj)
 
-    # --- 3. Git Operations ---
+  # --- 3. Git Operations ---
     if changes_made:
         log("Pushing generated ZIP files to repo...")
         run_git_command('git config --global user.name "github-actions[bot]"')
         run_git_command('git config --global user.email "github-actions[bot]@users.noreply.github.com"')
+        
+        # Add the files and commit
         run_git_command('git commit -m "Auto-generate wallpaper ZIPs [skip ci]"')
+        
+        # FIX: Pull the absolute latest changes from remote before pushing
+        # --rebase ensures your automated commit is placed on top of any new changes
+        run_git_command('git pull --rebase origin main')
+        
+        # Now it is safe to push
         run_git_command('git push')
         log("Git push complete.")
 
