@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Itachi Uchiha \u2013 Crimson Silence",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "A lone figure emerges from the darkness, surrounded by waves of crimson energy that feel alive and restless. His gaze cuts through the shadows, calm yet overwhelming, as red mist swirls like echoes of unspoken memories. The atmosphere is heavy, charged with tension and quiet power, capturing a",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 65928404
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

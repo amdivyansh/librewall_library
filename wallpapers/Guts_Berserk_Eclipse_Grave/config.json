@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Guts Berserk Eclipse Grave",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Heavy skies meet a lone warrior at the edge of a hill, and if you've watched Berserk you already know whose shoulders those are. Guts kneels beside a cross that wasn't meant to stand there alone. Above him the black sun hangs inside that familiar red ring. The clouds split the frame almost in half,",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 15753282
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

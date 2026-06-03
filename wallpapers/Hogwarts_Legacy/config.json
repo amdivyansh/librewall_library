@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Hogwarts Legacy",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Step into the mystical realm of magic with this Hogwarts Legacy 4K animated live wallpaper . Standing atop a misty cliff, a young wizard gazes upon the breathtaking sight of Hogwarts Castle , its towers piercing the sky, bathed in golden sunlight. With the power of magic glowing in their hand ,",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 32204300
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

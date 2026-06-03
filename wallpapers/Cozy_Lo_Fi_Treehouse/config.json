@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Cozy Lo-Fi Treehouse",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "A rainy night, soft lights, and the calm hum of the city below \u2014 this is the world of the Cozy Lo-Fi Treehouse. Perched high above the glowing skyline, a tiny home made from an old train car has been transformed into a warm retreat. String lights twinkle, candles flicker, and the rain taps gently",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 15003994
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

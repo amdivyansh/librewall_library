@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Ferrari F1",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Experience the intensity and heritage of world-class racing with a dramatic Ferrari Formula 1 scene. Emerging from deep red smoke, the iconic machine stands ready for action, symbolizing precision engineering, speed, and racing excellence. The front-facing perspective emphasizes the aggressive",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 11687623
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

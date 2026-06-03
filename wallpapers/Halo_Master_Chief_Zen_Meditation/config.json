@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Halo Master Chief Zen Meditation",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "A quiet intensity settles over the scene as Master Chief enters a moment of calm, seated in a meditative pose against a glowing green halo. The contrast between heavy Spartan armor and inner stillness creates a striking balance, blending strength with serenity. Subtle particles drift through the",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 8826050
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

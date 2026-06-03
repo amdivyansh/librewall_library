@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Frieren Pixel Sky",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Step into a peaceful fantasy world inspired by the calm and emotional atmosphere of Frieren: Beyond Journey's End . Rendered in a beautiful pixel art style, the scene shows Frieren standing above soft clouds with her staff in hand, surrounded by bright skies and a quiet sense of reflection. The",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 45299915
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

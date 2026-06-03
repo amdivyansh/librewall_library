@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Honkai Impact 3rd",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "As the sun begins its slow descent beyond the horizon, the sky transforms into a breathtaking canvas of pastel pinks, purples, and warm golds. The tranquil lake mirrors the colors of the sky, its surface rippling softly in the evening breeze. A wooden dock extends into the water, and at its edge",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 40959672
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

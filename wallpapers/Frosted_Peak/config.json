@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Frosted Peak",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Transform your screen into a winter wonderland with the Frosted Peak Live Wallpaper. Experience serene snowy mountains and crisp, frosted peaks that evoke the tranquility of winter's embrace. This high-definition animated background is perfect for anyone looking to add a touch of icy elegance to",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 25282106
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

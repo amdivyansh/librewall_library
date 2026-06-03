@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Into the Multiverse",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Step into a vibrant alternate dimension with \"Into the Multiverse\", a high-energy live wallpaper that brings the heart of the Spider-Verse straight to your screen. Featuring two of the most iconic modern spider heroes\u2014clad in their signature hoods and framed by a whirlwind of neon",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 40083153
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

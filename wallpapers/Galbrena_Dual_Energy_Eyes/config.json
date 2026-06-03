@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Galbrena Dual Energy Eyes",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "A mesmerizing close-up reveals the mystical gaze of Galbrena, where two powerful energies collide in a stunning visual display. One eye burns with radiant golden flames while the other glows with deep violet and electric blue power. The contrast between these elemental forces creates a dramatic",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 40660571
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

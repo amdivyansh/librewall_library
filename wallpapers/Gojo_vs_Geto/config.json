@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Gojo vs Geto",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "The shrine courtyard shatters under the force of cursed energy as two powerful figures collide. Paper talismans tear through the air, stone cracks beneath their feet, and glowing energy floods the scene with electric blue light. The traditional architecture stands as a silent witness to a battle",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 25263126
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Frog on Lily Pad River",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "This two frogs on a lily pad live wallpaper shows a small green frog sitting on a floating lily pad while a second frog swims just behind it, gently pushing them forward through a shallow river. Designed as a relaxing animated desktop background, the top-down view reveals smooth currents, soft",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 27152998
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}
