@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Astronaut Above the City",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "There\u2019s something slightly off about it, in a good way. An astronaut just\u2026 floating over a city that looks too dense to breathe in, bathed in that heavy sunset glow. The sun hangs low and oversized, almost pressing against the skyline. You don\u2019t really question how they got there, or why. It feels",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 25907595
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

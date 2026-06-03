@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Dreamy Aesthetic Clouds",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "As the sun begins to set, the sky transforms into a surreal blend of soft pinks and deep purples, casting a dreamlike glow over the world below. The cotton candy clouds drift effortlessly, their edges illuminated by the fading sunlight, creating an atmosphere of serenity and wonder. This aesthetic",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 30460897
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

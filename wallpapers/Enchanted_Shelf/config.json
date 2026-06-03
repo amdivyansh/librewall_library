@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Enchanted Shelf",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "It kind of feels like you just stumbled onto this shelf by accident, like it wasn\u2019t meant to be seen all at once. Little things everywhere. Bottles with odd colors, a small frog glowing under glass, dried plants hanging like they\u2019ve been there forever. Nothing is loud, but everything seems like it",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 41094813
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

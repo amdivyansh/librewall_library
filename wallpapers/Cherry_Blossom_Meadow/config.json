@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Cherry Blossom Meadow",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Bring the beauty of spring to your desktop with a breathtaking landscape centered around a magnificent cherry blossom tree in full bloom. Soft pink petals drift gently through the air while sunlight spreads across a peaceful meadow, creating a bright and uplifting atmosphere. The wide open field,",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 58226716
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

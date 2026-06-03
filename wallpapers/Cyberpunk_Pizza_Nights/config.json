@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Cyberpunk Pizza Nights",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "A vibrant cyberpunk world brought to life in detailed pixel art. A glowing pizza shop stands at the heart of a futuristic city, surrounded by towering buildings, neon signs, and the warm energy of a lively night scene. The rich pixel art design blends retro gaming nostalgia with modern cyberpunk",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 16194735
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

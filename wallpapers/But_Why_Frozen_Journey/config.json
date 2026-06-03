@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "But Why? Frozen Journey",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "In the heart of an endless frozen valley, a single penguin walks forward, leaving fragile footprints behind. Surrounded by towering icy mountains and a sky caught between night and dawn, the scene feels suspended in time. The soft glow on the horizon contrasts with the deep blues of the snow,",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 20395482
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

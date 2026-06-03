@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Blue Rain Reflections",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Soft lamplight gently fills a quiet interior while raindrops trace glowing paths across the window, revealing a deep-blue forest bathed in nighttime rain. The contrast between the warmth of wooden textures, bookshelves, and indoor plants and the cool, misty scenery outside creates a visually",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 71875351
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}
