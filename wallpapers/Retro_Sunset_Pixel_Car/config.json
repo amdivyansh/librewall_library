@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Retro Sunset Pixel Car",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Step into a calm, nostalgic world where a quiet roadside scene meets a breathtaking pixel-painted sunset. The glowing sky blends shades of pink, orange, and deep blue, creating a peaceful atmosphere that feels both cinematic and comforting. The retro car resting along the road adds a timeless",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 9812819
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

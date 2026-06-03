@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Silent Glow Butterfly Reze",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "There\u2019s something oddly quiet about this one, like it\u2019s caught mid-thought and didn\u2019t notice you looking. The girl\u2019s turned just enough, not fully facing away, not really present either. Loose strands of dark hair fall over her face in a way that feels unplanned, and that soft glow along her skin\u2026",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 11982800
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

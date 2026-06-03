@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Tranquil Pixel Lake",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Escape into a peaceful pixel art landscape where gentle waters reflect soft pastel skies and drifting leaves float through the air. Framed by delicate trees and calming colors, this animated scene captures the nostalgic charm of retro nature artwork while creating a soothing atmosphere for your",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 6249892
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

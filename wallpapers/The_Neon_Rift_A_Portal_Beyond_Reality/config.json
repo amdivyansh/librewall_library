@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "The Neon Rift: A Portal Beyond Reality",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "The snow falls gently on the deserted street, muffling the sound of distant footsteps. Streetlights flicker, casting eerie halos of light on the icy pavement. A lone vintage car idles at the curb, its headlights cutting through the misty darkness. But the true anomaly stands at the heart of the",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 4511858
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

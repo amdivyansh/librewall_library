@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Sunset Drive through Windmills",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "A lone sports car moves steadily along an open road as a massive glowing sun sinks into a fiery horizon, painting the sky in deep reds and warm orange tones. Endless rows of windmills stretch across the landscape, their silhouettes creating a striking contrast against the vibrant sunset. The",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 11448010
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

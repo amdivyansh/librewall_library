@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Pixel Anime Cyberpunk Girl Lab",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "A quiet, neon-lit laboratory hums softly in the background as a lone anime girl sits atop a futuristic machine, bathed in cool blue light. The pixel art style brings a nostalgic charm while blending seamlessly with a cyberpunk atmosphere, creating a calm yet mysterious mood. Every detail, from the",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 5375973
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

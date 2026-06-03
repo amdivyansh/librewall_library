@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Rain on Glass at Sunset",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Raindrops slide slowly across the glass, catching the warm glow of a setting sun in shades of orange and amber. Beyond the droplets, the city fades into soft shapes and gentle blur, creating a scene where motion feels subtle and time seems to slow. The contrast between sharp droplets and distant",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 9487923
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

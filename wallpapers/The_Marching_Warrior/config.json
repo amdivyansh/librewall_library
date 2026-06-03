@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "The Marching Warrior",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Bring your desktop to life with The Marching Warrior, a breathtaking animated live wallpaper that immerses you in the atmosphere of a mysterious city shrouded in history and intrigue. Amidst crumbling walls and dimly lit streets, a lone warrior strides confidently through a water-soaked pathway.",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 8800297
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

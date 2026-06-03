@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Potions and Shadows",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Deep inside a dimly lit workshop, rows of jars, potions, and strange ingredients glow softly in the shadows. The worn wooden floor is cluttered with old notes, vials, and forgotten tools, giving the room a sense of ancient magic and quiet chaos. Soft candlelight flickers across shelves full of",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 3456330
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

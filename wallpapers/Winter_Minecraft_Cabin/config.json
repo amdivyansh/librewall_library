@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Winter Minecraft Cabin",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Snow drifts gently across the frozen landscape as a small wooden cabin stands quietly beneath the frosty trees. The soft glow of torches beside the door warms the scene, offering a cozy contrast to the cold winter air. It feels like a peaceful moment hidden deep within a snowy forest, untouched",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 20230861
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

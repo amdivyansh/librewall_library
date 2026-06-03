@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Pixel Tofas Dogan SLX",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Retro street culture and pixel art aesthetics come together in this atmospheric live wallpaper featuring the legendary Tofas Dogan SLX. Surrounded by rain, reflections, and glowing headlights, the classic sedan creates a nostalgic late-night vibe that looks incredible on both Mac and Windows",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 8414532
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Winter Pixel Art \u2013 Snowy Night Cyberpunk",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "As the snow gently falls, a sense of quiet elegance and futuristic nostalgia fills the night. The streets are covered in a fresh layer of white frost, illuminated by the warm golden glow of classical architecture. Against the backdrop of this timeless scene, a sleek cyberpunk car hums softly, its",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 3474724
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

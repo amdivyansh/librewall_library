@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Red Sun Astronaut",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "It feels quiet in a way that\u2019s almost too heavy, like sound just doesn\u2019t travel here anymore. The astronaut isn\u2019t moving much, just leaning forward slightly, caught in that still pause where you can\u2019t tell if they\u2019re resting or thinking or something else entirely. And then there\u2019s that red sun,",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 2232048
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

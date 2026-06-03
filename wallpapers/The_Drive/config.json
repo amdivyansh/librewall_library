@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "The Drive",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Transform your device with The Drive Live Wallpaper, featuring a stunning pink sunset and cars driving down a vibrant street. This dynamic and captivating background will bring your screen to life, creating a serene yet lively ambiance. Perfect for those who love the beauty of twilight and the",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 11135641
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

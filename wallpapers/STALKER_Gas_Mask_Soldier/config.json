@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "STALKER Gas Mask Soldier",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Step into the atmospheric and dangerous world of STALKER with this striking live wallpaper featuring a gas mask soldier standing in the shadows of a post-apocalyptic environment. This high-quality animated desktop background perfectly captures the tension, mystery, and gritty realism of the Zone.",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 8305757
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

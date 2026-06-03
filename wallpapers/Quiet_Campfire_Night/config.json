@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Quiet Campfire Night",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "A small flame glows gently in the darkness, creating a warm and peaceful moment of solitude. Surrounded by deep night tones and a clean minimalist design, the scene captures the quiet comfort of sitting alone by a fire. The soft light contrasts beautifully with the dark background, offering a",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 7036297
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

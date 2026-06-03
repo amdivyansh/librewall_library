@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Steam Autumn Sale 2024 \u2013 Cozy Gaming Adventure",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "As the Steam Autumn Sale 2024 approaches, a quiet forest retreat becomes the perfect escape for gamers ready to dive into their next adventure. Under the fiery hues of fall foliage, a mysterious traveler stands near a rustic wooden cabin, surrounded by gentle deer and a curious cat. Nearby, a",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 5511712
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

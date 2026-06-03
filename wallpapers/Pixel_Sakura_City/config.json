@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Pixel Sakura City",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Bring a calm and minimalist atmosphere to your screen with a soft pixel-style city inspired by modern Japan. A quiet urban skyline fades into the distance while a cherry blossom branch stretches across the scene, with delicate petals drifting gently through the air. The muted color palette, simple",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 4483172
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

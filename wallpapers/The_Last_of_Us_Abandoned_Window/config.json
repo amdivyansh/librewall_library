@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "The Last of Us Abandoned Window",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Soft sunlight pours through a cracked old window while green vines slowly reclaim the abandoned room, creating a calm yet emotional atmosphere inspired by post-apocalyptic worlds. The contrast between nature and decay gives this scene a peaceful cinematic feeling that looks stunning as a live",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 6033481
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

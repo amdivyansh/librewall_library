@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Pack of Cigarettes",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Immerse yourself in the serene ambiance of the evening cityscape with our pixel art live wallpaper, \"Pack of Cigarettes.\" Watch as a contemplative girl gazes over the city while smoking a cigarette, capturing the essence of solitude and urban beauty. This wallpaper brings a touch of calm",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 3706822
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

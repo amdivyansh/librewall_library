@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Silent Train Ride Anime",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "A quiet train ride during sunset creates a deeply emotional atmosphere filled with soft light, silence, and reflection. The warm golden tones, blurred scenery, and calm anime aesthetic make this live wallpaper feel cinematic and peaceful, perfect for relaxing desktop setups on both Mac and Windows",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 42232720
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

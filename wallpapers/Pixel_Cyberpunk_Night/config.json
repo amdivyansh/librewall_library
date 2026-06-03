@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Pixel Cyberpunk Night",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Under the dark, star-filled sky, the city glows with neon screens and flickering lights. Pixelated buildings stretch into the distance, their windows reflecting the quiet hum of a world that never truly sleeps. On the edge of the street, a red car with open doors hints at a moment of pause in the",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 3716907
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

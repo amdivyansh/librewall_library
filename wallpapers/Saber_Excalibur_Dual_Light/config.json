@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Saber Excalibur Dual Light",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "A powerful anime scene centered on a mysterious warrior holding a glowing sword that divides light and shadow. The dramatic composition highlights intense blue eyes and flowing hair, creating a striking contrast between darkness and radiant energy. The artwork captures the iconic elegance of a",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 14302314
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

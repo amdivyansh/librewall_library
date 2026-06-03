@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Pixel Waterfall",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "This pixel waterfall live wallpaper shows a hidden settlement built into steep cliffs, with warm lights glowing from small houses above cascading waterfalls. Designed as a dark and atmospheric desktop background, the scene blends detailed pixel-style visuals with a calm nighttime setting. The",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 8268434
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}
