@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Sunshine Cyberpunk City",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Transform your screen with the vibrant and futuristic Sunshine Cyberpunk City Live Wallpaper. Immerse yourself in a neon-lit metropolis where technology meets nature, offering a perfect blend of urban life and digital aesthetics. This live wallpaper brings a dynamic, high-tech cityscape to life,",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 19837645
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Super Mario Retro Gamer Room",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Enter a cozy pixel universe inspired by the timeless charm of classic platform adventures. A dedicated gamer works late into the night, surrounded by shelves filled with familiar characters, power-ups, and iconic elements that bring back the magic of old-school gaming. From nostalgic collectibles",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 16014712
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

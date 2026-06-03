@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "The Unreliable",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Explore the vast reaches of space with The Unreliable, the iconic ship from The Outer Worlds. Floating through a colorful cosmic backdrop filled with distant stars and nebula clouds, this live wallpaper captures the spirit of adventure, exploration, and freedom beyond the colonies. The detailed",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 40317095
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

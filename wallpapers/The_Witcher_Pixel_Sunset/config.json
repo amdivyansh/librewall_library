@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "The Witcher 3 Pixel Sunset",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "A peaceful moment from the world of The Witcher 3, where Geralt of Rivia rests beside a warm campfire while the sun sets over a vast fantasy landscape. The glowing sky, distant mountains, and quiet lake create a cinematic atmosphere that captures the calm between adventures. Designed in a",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 16017539
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

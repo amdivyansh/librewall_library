@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Tropical Rainforest Leaves",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Escape to a serene tropical rainforest, where lush, vibrant leaves gently sway beneath a soft, calming rain. The Tropical Rainforest Leaves Live Wallpaper transforms your desktop into a soothing oasis, capturing the quiet beauty of nature at its most peaceful. Each leaf comes to life in a smooth,",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 15701872
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

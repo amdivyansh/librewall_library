@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Silent Katana in the Forest",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Sunlight breaks gently through the forest canopy, illuminating a single blade standing in quiet stillness. The katana reflects the light with subtle precision, its surface carrying the calm strength and discipline of a warrior\u2019s path. The surrounding forest remains silent, as if honoring the",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 9511765
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

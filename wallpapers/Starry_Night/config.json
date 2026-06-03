@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Starry Night",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "A starry night lake canoe live wallpaper shows a peaceful scene of a lone figure floating on calm water beneath a sky full of stars, designed as a serene desktop background. Dark tree silhouettes frame the horizon while the sky stretches wide above, filled with scattered constellations and soft",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 52347690
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

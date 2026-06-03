@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Sukuna Split Soul \u2013 The Duality of Power",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Two souls. One body. An eternal struggle between good and evil, between humanity and pure malevolence. The fate of Jujutsu Kaisen rests on the fragile balance between Itadori Yuji, a determined sorcerer fighting to protect, and Ryomen Sukuna, the ancient King of Curses, lurking in the depths of his",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 43224446
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

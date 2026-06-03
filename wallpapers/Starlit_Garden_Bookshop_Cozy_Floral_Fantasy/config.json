@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Starlit Garden Bookshop \u2013 Cozy Floral Fantasy",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Picture yourself on a serene, lantern-lit street, where blossoms cascade gently around a charming old bookstore glowing invitingly beneath a shimmering, starry sky. The Starlit Garden Bookshop Live Wallpaper transports this magical cottagecore scene right to your desktop. Every element of this",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 15921622
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

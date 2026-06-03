@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Shore Guardian \u2013 Storm Waves",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Prepare for an exhilarating visual experience with the new \"Shore Guardian \u2013 Storm Waves\" live wallpaper. Immerse yourself in the world of Wuthering Waves as this animated background transports you to the Black Shores, where the Guardian, a mythical being known as the Shorekeeper, reigns.",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 14959550
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

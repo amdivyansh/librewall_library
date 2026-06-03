@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Sunny Hilltop House",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "It feels like one of those places that shouldn\u2019t exist this neatly, but somehow does. A small rounded house sitting on a hill, surrounded by soft grass and scattered flowers that don\u2019t really follow any pattern. The path leading up to it curves just enough to feel natural, and then the whole scene",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 40790155
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Shadow Samurai Red Eclipse",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Beneath a sky drowned in red, a lone samurai stands at the edge of silence. The world around him feels suspended in time, as shadows stretch and fragments of the past drift through the air. Each movement of the wind carries echoes of forgotten battles, while the crimson horizon pulses like a",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 13801327
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}
