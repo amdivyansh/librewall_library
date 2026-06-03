@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Violet Sakura Reflections",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Under the gentle glow of dusk, Violet Sakura Trees \u2013 Tranquil Garden Reflection presents a peaceful Japanese landscape shaped by rows of towering sakura trees arching gracefully over still water. Their violet-toned canopies form a natural frame for the quiet river, where soft lantern light dances",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 40300841
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Wanderer's Van \u2013 Serene Anime",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Somewhere on the edge of nowhere, where time slows and the sky stretches endlessly, sits a rusty old van overlooking a golden field. A girl leans quietly by its side, sketchbook in hand, while a black cat perches on the roof, eyes fixed on the drifting clouds above. The only sounds are the rustling",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 21577894
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

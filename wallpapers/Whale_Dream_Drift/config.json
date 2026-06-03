@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Whale Dream Drift",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "There\u2019s something oddly quiet about this scene, even though a giant whale is literally breaking through the sky like it forgot gravity existed. The colors lean soft, almost too soft, like they weren\u2019t meant to be looked at for too long. A girl sits in a small boat, barely moving, with a cat beside",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 38912829
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}
