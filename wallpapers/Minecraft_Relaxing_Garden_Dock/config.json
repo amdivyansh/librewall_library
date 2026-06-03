@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Minecraft Relaxing Garden Dock",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Immerse yourself in a serene pixelated world where sunlight filters through the trees, lily pads drift on crystal-clear water, and peace flows from every corner. This Minecraft-inspired live wallpaper transforms your desktop into a cozy garden dock\u2014perfect for fans of pixel art, relaxation, and",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 22044547
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

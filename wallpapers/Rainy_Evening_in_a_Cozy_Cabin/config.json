@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Rainy Evening in a Cozy Cabin",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Bring warmth and tranquility to your desktop with the Cozy Rainy Evening cabin live wallpaper. This stunning background features a rustic cabin interior glowing with warmth, set against the backdrop of a rainy evening. Perfect for those seeking relaxation, this wallpaper combines the soothing",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 13027926
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

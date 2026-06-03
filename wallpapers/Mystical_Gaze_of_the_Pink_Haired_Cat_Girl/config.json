@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Mystical Gaze of the Pink-Haired Cat Girl",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "In a dimly lit alley, where the golden glow of flickering neon signs meets the rustling whispers of old newspapers, she sits\u2014lost in thought. Her sky-blue eyes, wide and filled with wonder, reflect a world that seems both familiar and surreal. Strands of pastel pink hair cascade over her delicate",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 41719747
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

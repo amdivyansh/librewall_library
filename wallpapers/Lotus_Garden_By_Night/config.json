@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Lotus Garden By Night",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Experience the serene beauty of Lotus Garden By Night, a captivating live wallpaper that brings the mystique of a nocturnal lotus garden to your device. Immerse yourself in the tranquil ambiance as delicate lotus flowers gently float on moonlit waters, illuminated by the soft glow of lanterns. This",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 41694636
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

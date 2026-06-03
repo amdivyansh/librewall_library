@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Particle Drift",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "It\u2019s kind of hard to pin down what you\u2019re looking at right away. Something between dust and liquid, maybe both at once. A floating mass of tiny golden particles, clumped but never fully still, like it\u2019s deciding its own shape in real time. The black background keeps things minimalist, almost empty",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 24718578
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

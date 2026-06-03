@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Minecraft Enchanted Forest Sun Rays",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Soft rays of sunlight pierce through a dense, pixel-crafted forest, casting warm highlights across mossy ground and scattered flowers. The atmosphere feels alive yet peaceful, with a gentle balance between light and shadow that gives the scene a magical, almost dreamlike quality inspired by",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 40236033
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

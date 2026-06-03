@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Minecraft's Hidden Valley",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "After days of exploring dense forests and dark caves, the search is finally over. You step through the last trees, and the world opens up before you, breathtaking. You've found it. The perfect view. The place you've been searching for across countless procedurally generated worlds. This animated",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 22132162
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

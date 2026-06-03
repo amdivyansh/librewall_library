@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Last Crusader at Dawn",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "The lone knight stands motionless as the first light of dawn breaks across the horizon. His armor bears the marks of countless battles, yet his posture remains calm, almost reflective. In the quiet field, with tall grass swaying gently around him, he lowers his sword not in defeat, but in",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 14017041
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Retro Donkey Kong Gaming Room",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Step into a vibrant pixel art world filled with nostalgia, where a classic gaming room comes alive with colorful retro details and iconic references inspired by the legendary Donkey Kong universe. Shelves packed with collectibles, arcade memories, and vintage gaming elements create a lively and",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 16015475
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Night City CyberPunk 2077",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Immerse yourself in the neon-lit world of Night City with this stunning CyberPunk 2077 pixel art live wallpaper. Experience the retro-futuristic vibe, where vibrant colors meet dystopian landscapes, bringing your screen to life with every pixel. Perfect for fans of cyberpunk aesthetics and those",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 18942076
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

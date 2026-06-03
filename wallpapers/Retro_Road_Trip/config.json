@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Retro Road Trip",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "This wallpaper captures that perfect in-between feeling of a long drive with no real destination. Warm sunset colors pouring across the highway, relaxed legs up on the dashboard, fuzzy little mirror charms swinging around while the road stretches endlessly ahead. The whole scene feels carefree",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 30970445
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

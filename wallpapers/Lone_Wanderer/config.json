@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Lone Wanderer",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "A solitary wanderer stands atop a lush green hill, gazing across an endless landscape beneath towering clouds that stretch across the sky. Sunlight breaks through the dramatic cloud formations, casting soft golden light over the vast plains and creating a breathtaking cinematic atmosphere. The",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 43223636
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

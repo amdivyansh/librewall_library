@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Miles Morales",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Not all heroes wear capes\u2014some swing through neon skylines and multiverses of imagination. This 4K animated live wallpaper captures a high-octane moment of motion, as Miles Morales defies gravity and dives headfirst into a city of lights and color. Every frame pulses with life, turning your desktop",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 39581916
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

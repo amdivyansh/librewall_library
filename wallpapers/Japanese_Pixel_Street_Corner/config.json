@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Japanese Pixel Street Corner",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "This pixel art live wallpaper captures a quiet Japanese street corner filled with warmth and everyday charm. A small ramen shop glows softly with inviting lights, while vending machines, signs, and urban details bring the scene to life. The calm atmosphere feels like an early morning or late",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 17099061
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

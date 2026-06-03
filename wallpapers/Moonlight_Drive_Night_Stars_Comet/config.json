@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Moonlight Drive Night Stars Comet",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Transform your screen with Moonlight Drive Night Stars Comet live wallpaper. Experience the serene beauty of a full moon, twinkling stars, and shooting comets as a person leans against their car, gazing at the night sky. Perfect for those who love the tranquility of nighttime scenery.",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 20631220
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

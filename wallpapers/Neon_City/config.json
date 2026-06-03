@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Neon City",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Immerse yourself in the vibrant world of Neon City, a captivating pixel art live wallpaper that brings the energy of a futuristic urban landscape to your device. This dynamic wallpaper features glowing neon lights, towering skyscrapers, and detailed retro pixel art, all animated to create a",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 43083764
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}
