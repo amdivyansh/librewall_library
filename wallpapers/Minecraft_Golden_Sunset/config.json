@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Minecraft Golden Sunset",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Experience a breathtaking block-style landscape where golden sunlight fills the sky and glowing particles drift gently through the air. A lone character stands among vibrant cherry blossom trees, creating a peaceful and cinematic moment inspired by the immersive beauty of open-world adventures.",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 22221558
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

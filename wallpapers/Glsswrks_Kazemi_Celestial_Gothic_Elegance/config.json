@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Glsswrks Kazemi \u2013 Celestial Gothic Elegance",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "In the depths of an infinite cosmos, where time stands still and the void whispers secrets, Kazemi gazes into the unknown. Her piercing, ghostly-white eyes reflect the distant stars, while a faint, electric-blue halo encircles her like an otherworldly crown. Shadows dance across her delicate",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 9842804
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

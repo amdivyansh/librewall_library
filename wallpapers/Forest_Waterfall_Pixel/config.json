@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Forest Waterfall Pixel",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "It\u2019s got that old-school pixel feel right away, not in a forced way, just naturally baked into everything. The trees look soft but blocky at the edges, water reflections shimmer in that slightly imperfect pattern, and the whole place feels like something from a forgotten side-scrolling game.",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 8316602
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

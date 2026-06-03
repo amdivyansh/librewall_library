@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Minecraft Peaceful Sunrise",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Start your digital day with the calm and charm of the blocky world in this Minecraft \u2013 Peaceful Sunrise by the Pond live wallpaper. As the first rays of sunlight gently break through a layer of mist, they cast golden reflections on a serene pond surrounded by wildflowers, pixelated reeds, and tall,",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 20268959
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

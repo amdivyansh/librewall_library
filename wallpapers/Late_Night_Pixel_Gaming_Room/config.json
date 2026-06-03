@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Late Night Pixel Gaming Room",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "A pixel art scene showing two kids sitting on the floor of a dark bedroom, controllers in hand, facing a glowing CRT television. The screen displays a retro game with two small sprite characters in an orange-lit level. A digital clock on the stand reads 02:35. Shelves line the walls with figurines",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 3038468
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

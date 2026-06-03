@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Night Coffee Break",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Escape into the enchanting world of Night Coffee Break, an animated live wallpaper that brings warmth, serenity, and a touch of magic to your desktop. In this beautifully crafted scene, a charming girl sits by a window under a vast, starry night sky. The stars twinkle like precious jewels, casting",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 10452779
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

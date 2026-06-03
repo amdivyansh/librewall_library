@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Minecraft Night Farm",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Under a star-filled sky, a peaceful village rests in quiet harmony. Warm lantern light spills across wooden houses and softly illuminated pathways, while rows of crops sway gently in the night air. The scene feels calm and familiar, like the end of a long day spent building, exploring, and shaping",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 20335171
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

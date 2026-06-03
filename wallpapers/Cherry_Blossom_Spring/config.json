@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Cherry Blossom Spring",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "There is a moment in spring when the world feels lighter, as if nature itself pauses to breathe. This live wallpaper captures that fleeting instant \u2014 a gentle scene where cherry blossoms bloom in soft pink clusters, glowing under the morning sun. Each petal seems to shimmer as the breeze moves",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 8718361
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

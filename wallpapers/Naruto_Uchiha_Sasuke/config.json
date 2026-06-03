@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Naruto - Uchiha Sasuke",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Transform your desktop with the Uchiha Sasuke Live Wallpaper, featuring the enigmatic and powerful ninja in a breathtaking design. Highlighting his quiet resolve and the legendary Uchiha clan crest, this live wallpaper delivers the perfect balance of mystery and intensity. Ideal for fans of Naruto",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 19931855
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

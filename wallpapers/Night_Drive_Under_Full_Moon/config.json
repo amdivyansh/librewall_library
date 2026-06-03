@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Night Drive Under Full Moon",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "The engine hums low, like a whisper from the future. A retro supercar, bathed in violet neon reflections, stands motionless beneath a digital sky \u2014 waiting. In the distance, a massive full moon \u2014 or is it a synthwave sun? \u2014 dominates the horizon, glowing deep orange and melting into pixelated",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 5247099
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

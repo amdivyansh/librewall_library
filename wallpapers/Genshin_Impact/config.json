@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Genshin Impact",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Enjoy a peaceful moment from the world of Genshin Impact, where Paimon and the Traveler take a quiet break under a star-filled night sky. The warm glow of the campfire and the gentle fantasy atmosphere create a cozy scene that feels both magical and relaxing. The soft lighting, detailed",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 9040148
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

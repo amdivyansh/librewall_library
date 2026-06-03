@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Futuristic Neon Cityscape",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "A vast futuristic city stretches into the distance, illuminated by deep purple and blue neon tones under a star-filled sky. Towering skyscrapers rise in silhouette while a massive glowing moon arcs across the horizon, casting an otherworldly glow over the skyline. The atmosphere feels expansive and",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 6019981
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

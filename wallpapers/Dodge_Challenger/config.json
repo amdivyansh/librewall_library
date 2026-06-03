@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Dodge Challenger",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "A powerful American muscle car stands on an open road at sunset, captured in a cinematic pixel art style that blends nostalgia with modern detail. The glowing headlights cut through the warm orange sky, creating a dramatic atmosphere that instantly elevates your desktop. This animated background",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 3686156
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

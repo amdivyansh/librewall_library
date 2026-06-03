@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Lo-Fi Study Session",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "The city settles into the rhythm of a late-night session. Outside your window, a gentle rain begins to fall, washing the world in a soft, hazy glow and painting the skyline in deep purples and blues. The work is still ahead, but in here, you've created the perfect sanctuary, a quiet bubble of",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 3014570
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

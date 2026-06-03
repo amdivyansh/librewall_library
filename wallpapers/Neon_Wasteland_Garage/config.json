@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Neon Wasteland Garage",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "As the snow falls gently on broken pavement, a lone mechanic works beneath the blood-red glow of neon kanji, surrounded by shattered glass and electric silence. This is Neon Wasteland Garage \u2013 Cyberpunk Repair Zone, a visually striking cyberpunk-live-wallpaper that transports you into a gritty",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 17438528
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

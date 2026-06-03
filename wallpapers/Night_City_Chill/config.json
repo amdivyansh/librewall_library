@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Night City Chill",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Amidst the neon glow of a futuristic metropolis, a lone girl sits by a dimly lit table, lost in thought. The hazy city skyline stretches behind her, filled with towering buildings and digital billboards flickering in electric hues. The warm glow of streetlights bounces off the glass windows,",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 10706385
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

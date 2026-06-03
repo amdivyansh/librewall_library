@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Dreamy Sky Journey",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Step into a peaceful fantasy world where soft clouds stretch endlessly across the sky and distant floating islands glow under gentle starlight. A lone traveler walks along a quiet hillside, creating a calm and reflective atmosphere filled with wonder and quiet adventure. The pastel color palette,",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 6330499
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

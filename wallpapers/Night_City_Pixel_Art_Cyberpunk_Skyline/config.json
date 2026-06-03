@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Night City Pixel Art \u2013 Cyberpunk Skyline",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "As the moon rises over the sprawling urban labyrinth, the city hums to life in a dazzling display of neon lights and pixelated nostalgia. Skyscrapers stretch into the misty horizon, their glowing signs flickering like beacons in the dark, while animated billboards light up the skyline with cryptic",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 12247756
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Minecraft Sakura Oasis",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Under a bright blue sky, a serene Minecraft village comes to life among blooming sakura trees and soft pink petals drifting in the breeze. The gentle reflections on the pond shimmer like glass, capturing the vibrant colors of flowers, lanterns, and the peaceful homes nearby. Every detail feels",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 20220765
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

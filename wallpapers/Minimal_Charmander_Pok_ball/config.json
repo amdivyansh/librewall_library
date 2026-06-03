@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Minimal Charmander Pok\u00e9ball",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "A clean and playful design brings one of the most iconic Pok\u00e9mon moments to life with a minimalist floating Pok\u00e9ball and a tiny Charmander emerging from inside. The soft colors, smooth lines, and simple composition create a calm desktop atmosphere that feels modern, nostalgic, and stylish at the",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 6012396
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

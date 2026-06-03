@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Dodge Viper GTS SR II",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Neon signs glow softly along a narrow city street, reflecting off the polished bodywork of a powerful sports car resting at the curb. The atmosphere feels alive yet unhurried, with distant lights stretching toward the skyline and the quiet hum of the city settling into the night. Every reflection",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 9524328
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

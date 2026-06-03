@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Minecraft Winter",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "A peaceful winter atmosphere comes to life through softly falling snow and the warm glow of hanging lanterns. The quiet village scene, illuminated by gentle golden light, creates a cozy contrast against the cool tones of the snowy night. The calm environment and subtle lighting effects bring a",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 2866765
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}

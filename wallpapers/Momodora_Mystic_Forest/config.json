@@ -1,0 +1,14 @@
+{
+    "videorender": true,
+    "media": "video.mp4",
+    "metadata": {
+        "themeName": "Momodora Mystic Forest",
+        "author": "Dkydivyansh",
+        "authorUrl": "https://dkydivyansh.com",
+        "description": "Step into the hauntingly beautiful world inspired by Momodora, where a lone heroine walks through a mysterious forest filled with ancient gates, statues, and soft glowing lights. The quiet atmosphere captures the emotional and atmospheric storytelling that defines this beloved indie adventure. The",
+        "thumbnailImage": "thumb.gif",
+        "bitrate": 9781314
+    },
+    "fpsLimit": 0,
+    "muteAudio": true
+}
