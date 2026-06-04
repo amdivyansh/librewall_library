@@ -130,15 +130,26 @@ def main():
             }
             payload_list.append(wallpaper_obj)
 
+  # --- 3. Git Operations ---
     # --- 3. Git Operations ---
     if changes_made:
         log("Pushing generated ZIP files to repo...")
         run_git_command('git config --global user.name "github-actions[bot]"')
         run_git_command('git config --global user.email "github-actions[bot]@users.noreply.github.com"')
+        
+        # Commit the new ZIPs
         run_git_command('git commit -m "Auto-generate wallpaper ZIPs [skip ci]"')
-        run_git_command('git push')
+        
+        # 1. Fetch the absolute latest history from the remote main branch
+        run_git_command('git fetch origin main')
+        
+        # 2. Rebase our new commit cleanly on top of it
+        run_git_command('git rebase origin/main')
+        
+        # 3. Explicitly push the current state to the remote main branch
+        run_git_command('git push origin HEAD:main')
+        
         log("Git push complete.")
-
     # --- 4. Send to API ---
     if len(payload_list) > 0:
         log(f"Sending {len(payload_list)} NEW wallpapers to API...")
