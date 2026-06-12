@@ -12,7 +12,7 @@ REPO_OWNER = "amdivyansh"
 REPO_NAME = "librewall_library"
 BRANCH = "main"
 WALLPAPER_DIR = "wallpapers"
-API_URL = "https://dkydivyansh.com/Project/api/wallpapers/?action=upd"
+API_URL = "https://librewall.dkydivyansh.com/api_v2?action=upd"
 
 # Base URLs (Note: We will URL-encode spaces later for the JSON, but paths here are raw)
 RAW_BASE = f"https://raw.githubusercontent.com/{REPO_OWNER}/{REPO_NAME}/{BRANCH}"
